@@ -1,0 +1,15 @@
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\5-facade\bin\Debug\net6.0\5-facade.exe
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\5-facade\bin\Debug\net6.0\5-facade.deps.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\5-facade\bin\Debug\net6.0\5-facade.runtimeconfig.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\5-facade\bin\Debug\net6.0\5-facade.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\5-facade\bin\Debug\net6.0\5-facade.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\5-facade\obj\Debug\net6.0\5-facade.csproj.AssemblyReference.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\5-facade\obj\Debug\net6.0\5-facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\5-facade\obj\Debug\net6.0\5-facade.AssemblyInfoInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\5-facade\obj\Debug\net6.0\5-facade.AssemblyInfo.cs
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\5-facade\obj\Debug\net6.0\5-facade.csproj.CoreCompileInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\5-facade\obj\Debug\net6.0\5-facade.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\5-facade\obj\Debug\net6.0\refint\5-facade.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\5-facade\obj\Debug\net6.0\5-facade.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\5-facade\obj\Debug\net6.0\5-facade.genruntimeconfig.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\5-facade\obj\Debug\net6.0\ref\5-facade.dll

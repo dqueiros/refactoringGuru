@@ -1,0 +1,15 @@
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\5-singleton\bin\Debug\net6.0\5-singleton.exe
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\5-singleton\bin\Debug\net6.0\5-singleton.deps.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\5-singleton\bin\Debug\net6.0\5-singleton.runtimeconfig.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\5-singleton\bin\Debug\net6.0\5-singleton.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\5-singleton\bin\Debug\net6.0\5-singleton.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\5-singleton\obj\Debug\net6.0\5-singleton.csproj.AssemblyReference.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\5-singleton\obj\Debug\net6.0\5-singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\5-singleton\obj\Debug\net6.0\5-singleton.AssemblyInfoInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\5-singleton\obj\Debug\net6.0\5-singleton.AssemblyInfo.cs
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\5-singleton\obj\Debug\net6.0\5-singleton.csproj.CoreCompileInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\5-singleton\obj\Debug\net6.0\5-singleton.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\5-singleton\obj\Debug\net6.0\refint\5-singleton.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\5-singleton\obj\Debug\net6.0\5-singleton.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\5-singleton\obj\Debug\net6.0\5-singleton.genruntimeconfig.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\5-singleton\obj\Debug\net6.0\ref\5-singleton.dll

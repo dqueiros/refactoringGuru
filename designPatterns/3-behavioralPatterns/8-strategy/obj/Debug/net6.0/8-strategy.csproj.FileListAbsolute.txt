@@ -1,0 +1,15 @@
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\8-strategy\bin\Debug\net6.0\8-strategy.exe
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\8-strategy\bin\Debug\net6.0\8-strategy.deps.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\8-strategy\bin\Debug\net6.0\8-strategy.runtimeconfig.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\8-strategy\bin\Debug\net6.0\8-strategy.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\8-strategy\bin\Debug\net6.0\8-strategy.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\8-strategy\obj\Debug\net6.0\8-strategy.csproj.AssemblyReference.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\8-strategy\obj\Debug\net6.0\8-strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\8-strategy\obj\Debug\net6.0\8-strategy.AssemblyInfoInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\8-strategy\obj\Debug\net6.0\8-strategy.AssemblyInfo.cs
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\8-strategy\obj\Debug\net6.0\8-strategy.csproj.CoreCompileInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\8-strategy\obj\Debug\net6.0\8-strategy.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\8-strategy\obj\Debug\net6.0\refint\8-strategy.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\8-strategy\obj\Debug\net6.0\8-strategy.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\8-strategy\obj\Debug\net6.0\8-strategy.genruntimeconfig.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\8-strategy\obj\Debug\net6.0\ref\8-strategy.dll

@@ -1,0 +1,15 @@
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\3-composite\bin\Debug\net6.0\3-composite.exe
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\3-composite\bin\Debug\net6.0\3-composite.deps.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\3-composite\bin\Debug\net6.0\3-composite.runtimeconfig.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\3-composite\bin\Debug\net6.0\3-composite.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\3-composite\bin\Debug\net6.0\3-composite.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\3-composite\obj\Debug\net6.0\3-composite.csproj.AssemblyReference.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\3-composite\obj\Debug\net6.0\3-composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\3-composite\obj\Debug\net6.0\3-composite.AssemblyInfoInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\3-composite\obj\Debug\net6.0\3-composite.AssemblyInfo.cs
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\3-composite\obj\Debug\net6.0\3-composite.csproj.CoreCompileInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\3-composite\obj\Debug\net6.0\3-composite.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\3-composite\obj\Debug\net6.0\refint\3-composite.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\3-composite\obj\Debug\net6.0\3-composite.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\3-composite\obj\Debug\net6.0\3-composite.genruntimeconfig.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\3-composite\obj\Debug\net6.0\ref\3-composite.dll

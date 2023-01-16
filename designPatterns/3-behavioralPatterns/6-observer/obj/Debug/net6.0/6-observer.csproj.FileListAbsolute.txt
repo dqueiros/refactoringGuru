@@ -1,0 +1,15 @@
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\6-observer\bin\Debug\net6.0\6-observer.exe
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\6-observer\bin\Debug\net6.0\6-observer.deps.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\6-observer\bin\Debug\net6.0\6-observer.runtimeconfig.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\6-observer\bin\Debug\net6.0\6-observer.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\6-observer\bin\Debug\net6.0\6-observer.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\6-observer\obj\Debug\net6.0\6-observer.csproj.AssemblyReference.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\6-observer\obj\Debug\net6.0\6-observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\6-observer\obj\Debug\net6.0\6-observer.AssemblyInfoInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\6-observer\obj\Debug\net6.0\6-observer.AssemblyInfo.cs
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\6-observer\obj\Debug\net6.0\6-observer.csproj.CoreCompileInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\6-observer\obj\Debug\net6.0\6-observer.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\6-observer\obj\Debug\net6.0\refint\6-observer.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\6-observer\obj\Debug\net6.0\6-observer.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\6-observer\obj\Debug\net6.0\6-observer.genruntimeconfig.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\6-observer\obj\Debug\net6.0\ref\6-observer.dll

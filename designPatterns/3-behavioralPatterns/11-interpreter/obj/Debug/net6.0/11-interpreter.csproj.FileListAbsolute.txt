@@ -1,0 +1,15 @@
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\11-interpreter\bin\Debug\net6.0\11-interpreter.exe
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\11-interpreter\bin\Debug\net6.0\11-interpreter.deps.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\11-interpreter\bin\Debug\net6.0\11-interpreter.runtimeconfig.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\11-interpreter\bin\Debug\net6.0\11-interpreter.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\11-interpreter\bin\Debug\net6.0\11-interpreter.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\11-interpreter\obj\Debug\net6.0\11-interpreter.csproj.AssemblyReference.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\11-interpreter\obj\Debug\net6.0\11-interpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\11-interpreter\obj\Debug\net6.0\11-interpreter.AssemblyInfoInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\11-interpreter\obj\Debug\net6.0\11-interpreter.AssemblyInfo.cs
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\11-interpreter\obj\Debug\net6.0\11-interpreter.csproj.CoreCompileInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\11-interpreter\obj\Debug\net6.0\11-interpreter.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\11-interpreter\obj\Debug\net6.0\refint\11-interpreter.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\11-interpreter\obj\Debug\net6.0\11-interpreter.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\11-interpreter\obj\Debug\net6.0\11-interpreter.genruntimeconfig.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\11-interpreter\obj\Debug\net6.0\ref\11-interpreter.dll

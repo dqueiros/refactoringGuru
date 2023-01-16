@@ -1,0 +1,15 @@
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\1-adapter\bin\Debug\net6.0\1-adapter.exe
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\1-adapter\bin\Debug\net6.0\1-adapter.deps.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\1-adapter\bin\Debug\net6.0\1-adapter.runtimeconfig.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\1-adapter\bin\Debug\net6.0\1-adapter.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\1-adapter\bin\Debug\net6.0\1-adapter.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\1-adapter\obj\Debug\net6.0\1-adapter.csproj.AssemblyReference.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\1-adapter\obj\Debug\net6.0\1-adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\1-adapter\obj\Debug\net6.0\1-adapter.AssemblyInfoInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\1-adapter\obj\Debug\net6.0\1-adapter.AssemblyInfo.cs
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\1-adapter\obj\Debug\net6.0\1-adapter.csproj.CoreCompileInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\1-adapter\obj\Debug\net6.0\1-adapter.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\1-adapter\obj\Debug\net6.0\refint\1-adapter.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\1-adapter\obj\Debug\net6.0\1-adapter.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\1-adapter\obj\Debug\net6.0\1-adapter.genruntimeconfig.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\1-adapter\obj\Debug\net6.0\ref\1-adapter.dll

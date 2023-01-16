@@ -1,0 +1,15 @@
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\9-templateMethod\bin\Debug\net6.0\9-templateMethod.exe
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\9-templateMethod\bin\Debug\net6.0\9-templateMethod.deps.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\9-templateMethod\bin\Debug\net6.0\9-templateMethod.runtimeconfig.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\9-templateMethod\bin\Debug\net6.0\9-templateMethod.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\9-templateMethod\bin\Debug\net6.0\9-templateMethod.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\9-templateMethod\obj\Debug\net6.0\9-templateMethod.csproj.AssemblyReference.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\9-templateMethod\obj\Debug\net6.0\9-templateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\9-templateMethod\obj\Debug\net6.0\9-templateMethod.AssemblyInfoInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\9-templateMethod\obj\Debug\net6.0\9-templateMethod.AssemblyInfo.cs
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\9-templateMethod\obj\Debug\net6.0\9-templateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\9-templateMethod\obj\Debug\net6.0\9-templateMethod.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\9-templateMethod\obj\Debug\net6.0\refint\9-templateMethod.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\9-templateMethod\obj\Debug\net6.0\9-templateMethod.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\9-templateMethod\obj\Debug\net6.0\9-templateMethod.genruntimeconfig.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\9-templateMethod\obj\Debug\net6.0\ref\9-templateMethod.dll

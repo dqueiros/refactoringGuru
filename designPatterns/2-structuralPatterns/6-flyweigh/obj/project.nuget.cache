@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vPoDYffiLbIeq8VPdVi4Z/2RaN9fni/rj/6JgOjbPub+CVa2xJBKZPtubXWHTjS2H+qW9wQQoDCJl962JVhsQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Granito\\VS Code\\refactoringGuru\\designPatterns\\2-structuralPatterns\\6-flyweigh\\6-flyweigh.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Granito\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

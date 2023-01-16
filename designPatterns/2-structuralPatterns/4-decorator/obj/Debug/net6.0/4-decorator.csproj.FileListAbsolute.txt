@@ -1,0 +1,15 @@
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\4-decorator\bin\Debug\net6.0\4-decorator.exe
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\4-decorator\bin\Debug\net6.0\4-decorator.deps.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\4-decorator\bin\Debug\net6.0\4-decorator.runtimeconfig.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\4-decorator\bin\Debug\net6.0\4-decorator.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\4-decorator\bin\Debug\net6.0\4-decorator.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\4-decorator\obj\Debug\net6.0\4-decorator.csproj.AssemblyReference.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\4-decorator\obj\Debug\net6.0\4-decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\4-decorator\obj\Debug\net6.0\4-decorator.AssemblyInfoInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\4-decorator\obj\Debug\net6.0\4-decorator.AssemblyInfo.cs
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\4-decorator\obj\Debug\net6.0\4-decorator.csproj.CoreCompileInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\4-decorator\obj\Debug\net6.0\4-decorator.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\4-decorator\obj\Debug\net6.0\refint\4-decorator.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\4-decorator\obj\Debug\net6.0\4-decorator.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\4-decorator\obj\Debug\net6.0\4-decorator.genruntimeconfig.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\4-decorator\obj\Debug\net6.0\ref\4-decorator.dll

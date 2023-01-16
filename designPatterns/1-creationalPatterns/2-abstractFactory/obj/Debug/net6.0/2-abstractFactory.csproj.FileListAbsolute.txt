@@ -1,0 +1,15 @@
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\2-abstractFactory\bin\Debug\net6.0\2-abstractFactory.exe
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\2-abstractFactory\bin\Debug\net6.0\2-abstractFactory.deps.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\2-abstractFactory\bin\Debug\net6.0\2-abstractFactory.runtimeconfig.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\2-abstractFactory\bin\Debug\net6.0\2-abstractFactory.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\2-abstractFactory\bin\Debug\net6.0\2-abstractFactory.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\2-abstractFactory\obj\Debug\net6.0\2-abstractFactory.csproj.AssemblyReference.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\2-abstractFactory\obj\Debug\net6.0\2-abstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\2-abstractFactory\obj\Debug\net6.0\2-abstractFactory.AssemblyInfoInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\2-abstractFactory\obj\Debug\net6.0\2-abstractFactory.AssemblyInfo.cs
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\2-abstractFactory\obj\Debug\net6.0\2-abstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\2-abstractFactory\obj\Debug\net6.0\2-abstractFactory.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\2-abstractFactory\obj\Debug\net6.0\refint\2-abstractFactory.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\2-abstractFactory\obj\Debug\net6.0\2-abstractFactory.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\2-abstractFactory\obj\Debug\net6.0\2-abstractFactory.genruntimeconfig.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\1-creationalPatterns\2-abstractFactory\obj\Debug\net6.0\ref\2-abstractFactory.dll

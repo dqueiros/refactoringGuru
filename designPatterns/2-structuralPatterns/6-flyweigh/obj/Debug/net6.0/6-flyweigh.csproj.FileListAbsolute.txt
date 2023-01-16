@@ -1,0 +1,17 @@
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\6-flyweigh\obj\Debug\net6.0\6-flyweigh.csproj.AssemblyReference.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\6-flyweigh\obj\Debug\net6.0\6-flyweigh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\6-flyweigh\obj\Debug\net6.0\6-flyweigh.AssemblyInfoInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\6-flyweigh\obj\Debug\net6.0\6-flyweigh.AssemblyInfo.cs
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\6-flyweigh\obj\Debug\net6.0\6-flyweigh.csproj.CoreCompileInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\6-flyweigh\bin\Debug\net6.0\6-flyweigh.exe
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\6-flyweigh\bin\Debug\net6.0\6-flyweigh.deps.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\6-flyweigh\bin\Debug\net6.0\6-flyweigh.runtimeconfig.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\6-flyweigh\bin\Debug\net6.0\6-flyweigh.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\6-flyweigh\bin\Debug\net6.0\6-flyweigh.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\6-flyweigh\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\6-flyweigh\obj\Debug\net6.0\6-flyweigh.csproj.CopyComplete
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\6-flyweigh\obj\Debug\net6.0\6-flyweigh.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\6-flyweigh\obj\Debug\net6.0\refint\6-flyweigh.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\6-flyweigh\obj\Debug\net6.0\6-flyweigh.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\6-flyweigh\obj\Debug\net6.0\6-flyweigh.genruntimeconfig.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\6-flyweigh\obj\Debug\net6.0\ref\6-flyweigh.dll

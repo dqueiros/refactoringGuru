@@ -1,0 +1,15 @@
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\2-bridge\bin\Debug\net6.0\2-bridge.exe
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\2-bridge\bin\Debug\net6.0\2-bridge.deps.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\2-bridge\bin\Debug\net6.0\2-bridge.runtimeconfig.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\2-bridge\bin\Debug\net6.0\2-bridge.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\2-bridge\bin\Debug\net6.0\2-bridge.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\2-bridge\obj\Debug\net6.0\2-bridge.csproj.AssemblyReference.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\2-bridge\obj\Debug\net6.0\2-bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\2-bridge\obj\Debug\net6.0\2-bridge.AssemblyInfoInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\2-bridge\obj\Debug\net6.0\2-bridge.AssemblyInfo.cs
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\2-bridge\obj\Debug\net6.0\2-bridge.csproj.CoreCompileInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\2-bridge\obj\Debug\net6.0\2-bridge.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\2-bridge\obj\Debug\net6.0\refint\2-bridge.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\2-bridge\obj\Debug\net6.0\2-bridge.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\2-bridge\obj\Debug\net6.0\2-bridge.genruntimeconfig.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\2-bridge\obj\Debug\net6.0\ref\2-bridge.dll

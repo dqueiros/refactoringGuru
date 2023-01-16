@@ -1,0 +1,15 @@
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\4-mediator\bin\Debug\net6.0\4-mediator.exe
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\4-mediator\bin\Debug\net6.0\4-mediator.deps.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\4-mediator\bin\Debug\net6.0\4-mediator.runtimeconfig.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\4-mediator\bin\Debug\net6.0\4-mediator.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\4-mediator\bin\Debug\net6.0\4-mediator.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\4-mediator\obj\Debug\net6.0\4-mediator.csproj.AssemblyReference.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\4-mediator\obj\Debug\net6.0\4-mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\4-mediator\obj\Debug\net6.0\4-mediator.AssemblyInfoInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\4-mediator\obj\Debug\net6.0\4-mediator.AssemblyInfo.cs
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\4-mediator\obj\Debug\net6.0\4-mediator.csproj.CoreCompileInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\4-mediator\obj\Debug\net6.0\4-mediator.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\4-mediator\obj\Debug\net6.0\refint\4-mediator.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\4-mediator\obj\Debug\net6.0\4-mediator.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\4-mediator\obj\Debug\net6.0\4-mediator.genruntimeconfig.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\4-mediator\obj\Debug\net6.0\ref\4-mediator.dll

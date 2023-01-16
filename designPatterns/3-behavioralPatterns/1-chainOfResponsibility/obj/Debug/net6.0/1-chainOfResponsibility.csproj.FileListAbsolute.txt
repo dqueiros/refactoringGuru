@@ -1,0 +1,15 @@
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\1-chainOfResponsibility\bin\Debug\net6.0\1-chainOfResponsibility.exe
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\1-chainOfResponsibility\bin\Debug\net6.0\1-chainOfResponsibility.deps.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\1-chainOfResponsibility\bin\Debug\net6.0\1-chainOfResponsibility.runtimeconfig.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\1-chainOfResponsibility\bin\Debug\net6.0\1-chainOfResponsibility.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\1-chainOfResponsibility\bin\Debug\net6.0\1-chainOfResponsibility.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\1-chainOfResponsibility\obj\Debug\net6.0\1-chainOfResponsibility.csproj.AssemblyReference.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\1-chainOfResponsibility\obj\Debug\net6.0\1-chainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\1-chainOfResponsibility\obj\Debug\net6.0\1-chainOfResponsibility.AssemblyInfoInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\1-chainOfResponsibility\obj\Debug\net6.0\1-chainOfResponsibility.AssemblyInfo.cs
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\1-chainOfResponsibility\obj\Debug\net6.0\1-chainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\1-chainOfResponsibility\obj\Debug\net6.0\1-chainOfResponsibility.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\1-chainOfResponsibility\obj\Debug\net6.0\refint\1-chainOfResponsibility.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\1-chainOfResponsibility\obj\Debug\net6.0\1-chainOfResponsibility.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\1-chainOfResponsibility\obj\Debug\net6.0\1-chainOfResponsibility.genruntimeconfig.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\3-behavioralPatterns\1-chainOfResponsibility\obj\Debug\net6.0\ref\1-chainOfResponsibility.dll

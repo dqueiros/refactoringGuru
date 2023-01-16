@@ -1,0 +1,15 @@
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\7-proxy\bin\Debug\net6.0\7-proxy.exe
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\7-proxy\bin\Debug\net6.0\7-proxy.deps.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\7-proxy\bin\Debug\net6.0\7-proxy.runtimeconfig.json
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\7-proxy\bin\Debug\net6.0\7-proxy.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\7-proxy\bin\Debug\net6.0\7-proxy.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\7-proxy\obj\Debug\net6.0\7-proxy.csproj.AssemblyReference.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\7-proxy\obj\Debug\net6.0\7-proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\7-proxy\obj\Debug\net6.0\7-proxy.AssemblyInfoInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\7-proxy\obj\Debug\net6.0\7-proxy.AssemblyInfo.cs
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\7-proxy\obj\Debug\net6.0\7-proxy.csproj.CoreCompileInputs.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\7-proxy\obj\Debug\net6.0\7-proxy.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\7-proxy\obj\Debug\net6.0\refint\7-proxy.dll
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\7-proxy\obj\Debug\net6.0\7-proxy.pdb
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\7-proxy\obj\Debug\net6.0\7-proxy.genruntimeconfig.cache
+C:\Users\Granito\VS Code\refactoringGuru\designPatterns\2-structuralPatterns\7-proxy\obj\Debug\net6.0\ref\7-proxy.dll
